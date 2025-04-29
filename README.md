@@ -38,7 +38,7 @@ terraform apply
 5. ##### Check the output
 After Terraform applies the configuration, it will display the public IP of the EC2 instance:
 ```bash
-Apply complete! Resources: 6 added, 0 changed, 0 destroyed.
+Apply complete! Resources: 11 added, 0 changed, 0 destroyed.
 
 Outputs:
 
